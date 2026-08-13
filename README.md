@@ -37,7 +37,7 @@
 name: Bibek Sah
 location: Odisha, India 🇮🇳
 education: B.Tech CSE @ NIT Rourkela
-role: Software Engineer | AI/ML Enthusiast
+role: Aspiring Software Developer ⭐ | AI & GenAI Explorer
 
 currently_working_on:
   - Full-stack applications with React & Node.js
