@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,10:1a0533,30:6c3ce9,60:a855f7,100:00d4ff&height=300&section=header&text=Bibek%20Sah&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20and%20GenAI%20Explorer%20%7C%20Aspiring%20Software%20Developer&descSize=20&descAlignY=55&descColor=e0e0ff&stroke=a855f7&strokeWidth=2" width="100%" />
 </div>
-
+ 
 <!-- Greeting -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
