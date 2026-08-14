@@ -148,7 +148,7 @@ open_to_collaborate_on:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Competitive Programming -->
-## 🧩 &nbsp;Competitive Programming
+## 🧩 &nbsp; DSA & Competitive Programming
 
 <div align="center">
   <img src="https://img.shields.io/badge/600+_Questions_Solved-a855f7?style=for-the-badge&labelColor=0d1117" />
