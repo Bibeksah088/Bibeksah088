@@ -148,6 +148,14 @@ open_to_collaborate_on:
 
 <br/>
 
+### 📅 &nbsp;Contribution Calendar
+
+<div align="center">
+  <img src="https://ghchart.rber.tv/a855f7/Bibeksah088" alt="Contribution Calendar" width="95%" />
+</div>
+
+<br/>
+
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -195,30 +203,7 @@ open_to_collaborate_on:
 ## 🧩 &nbsp;Competitive Programming
 
 <div align="center">
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-
-| Platform | Stats |
-|:---------|:------|
-| 💡 **Total Problems Solved** | **600+** across platforms |
-| 🟡 **LeetCode** | **XXX+** problems · Max Rating: **XXXX** |
-| 🟤 **CodeChef** | **X★** · Max Rating: **XXXX** |
-| 🔵 **Codeforces** | Max Rating: **XXXX** (Specialist/Expert) |
-
+  <img src="https://img.shields.io/badge/600+_Questions_Solved-a855f7?style=for-the-badge&labelColor=0d1117" />
 </div>
 
 <br/>
