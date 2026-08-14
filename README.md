@@ -135,63 +135,11 @@ open_to_collaborate_on:
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- 3D Contribution Graph -->
-## 🧊 &nbsp;3D Contribution Graph
+<!-- Contribution Graph -->
+## 📅 &nbsp;Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bibeksah088/Bibeksah088/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bibeksah088/Bibeksah088/main/profile-3d-contrib/profile-south-season-animate.svg" />
-    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Bibeksah088/Bibeksah088/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-### 📅 &nbsp;Contribution Calendar
-
-<div align="center">
-  <img src="https://ghchart.rber.tv/a855f7/Bibeksah088" alt="Contribution Calendar" width="95%" />
-</div>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Notable Highlights -->
-## 🏆 &nbsp;Notable Highlights
-
-<div align="center">
-
-| &nbsp; | Achievement | &nbsp; |
-|:---:|:---|:---:|
-| 🎓 | **NIT Rourkela** — B.Tech in Computer Science & Engineering | ⭐ |
-| 🤖 | Built **Interviq** — AI-powered interview preparation platform | 🚀 |
-| ✈️ | Built **FlightOps** — Flight operations & analytics platform | 📊 |
-| 💰 | Built **Monetro** — Personal finance tracking Android app | 📱 |
-| 🩺 | Built **Diabetes Detection** — ML classification project | 🧬 |
-| 🔧 | Hands-on with REST APIs, auth, databases & deployment | 🛠️ |
-
-</div>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Featured Projects -->
-## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-| &nbsp; | Project | Description | Tech Stack |
-|:---:|:--------|:------------|:-----------|
-| 🎤 | [**Interviq**](https://github.com/Bibeksah088/Interviq) | AI-powered technical & HR interview prep platform | `React` `Node.js` `Gemini API` `MongoDB` |
-| ✈️ | [**FlightOps**](https://github.com/Bibeksah088/FlightOps) | Flight operations management & analytics system | `React` `Express` `REST APIs` `PostgreSQL` |
-| 💰 | [**Monetro**](https://github.com/Bibeksah088/Monetro) | Personal finance tracking Android application | `Android` `SQLite` `Java` |
-| 🩺 | [**Diabetes Detection**](https://github.com/Bibeksah088/Diabetes-Detection) | Machine learning classification project | `Python` `Scikit-learn` `Pandas` |
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bibeksah088&theme=tokyonight" width="95%" alt="Contribution Graph" />
 </div>
 
 <br/>
@@ -228,16 +176,6 @@ open_to_collaborate_on:
   </a>
 </div>
 
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bibeksah088/Bibeksah088/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bibeksah088/Bibeksah088/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Bibeksah088/Bibeksah088/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:6c3ce9,60:a855f7,100:00d4ff&height=120&section=footer" width="100%" />
