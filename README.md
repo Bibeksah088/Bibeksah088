@@ -1,19 +1,12 @@
-<!-- 3D Header Banner -->
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,10:1a0533,30:6c3ce9,60:a855f7,100:00d4ff&height=300&section=header&text=Bibek%20Sah&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20and%20GenAI%20Explorer%20%7C%20Aspiring%20Software%20Developer&descSize=20&descAlignY=55&descColor=e0e0ff&stroke=a855f7&strokeWidth=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:6c3ce9,60:a855f7,100:00d4ff&height=220&section=header&text=Bibek%20Sah&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20and%20GenAI%20Explorer%20%7C%20Aspiring%20Software%20Developer&descSize=18&descAlignY=55&descColor=c9d1d9" width="100%" />
 </div>
-
-<!-- Greeting -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-  &nbsp;Hey there! Welcome to my GitHub Universe&nbsp;
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-</h3>
 
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%E2%9A%A1+Full-Stack+Developer+%7C+GenAI+Builder;%F0%9F%A4%96+AI+and+GenAI+Explorer;%F0%9F%8E%93+NIT+Rourkela+%7C+CSE+Undergraduate;%F0%9F%92%BB+Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%E2%9A%A1+Full-Stack+Developer+%7C+GenAI+Builder;%F0%9F%A4%96+AI+and+GenAI+Explorer;%F0%9F%8E%93+NIT+Rourkela+%7C+CSE+Undergraduate" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,22 +19,15 @@
   <a href="https://github.com/Bibeksah088?tab=followers">
     <img src="https://img.shields.io/github/followers/Bibeksah088?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117" alt="Followers" />
   </a>
-  &nbsp;
-  <a href="https://github.com/Bibeksah088?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/Bibeksah088?label=Total%20Stars&style=for-the-badge&color=f5a623&labelColor=0d1117" alt="Stars" />
-  </a>
 </div>
 
 <br/>
 
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- About Me with 3D Isometric GIF -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
-
-<div>
-<img align="right" alt="3D Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<!-- About Me -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
 ```yaml
 name: Bibek Sah
@@ -63,29 +49,15 @@ open_to_collaborate_on:
   - 🌐 Full-stack applications
   - 🤖 AI/ML & GenAI projects
   - 🛠️ Backend systems & open source
-
-fun_fact: >
-  I enjoy competitive programming and solving
-  challenging algorithmic problems 🧩
 ```
 
-</div>
-
-<br clear="both"/>
 <br/>
 
-<!-- 3D Animated Icons Bar -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" />
-</div>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
-
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- Tech Stack with Icon + Text Badges -->
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28"> &nbsp;Tech Arsenal
+<!-- Tech Stack -->
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
@@ -141,27 +113,8 @@ fun_fact: >
 
 <br/>
 
-<!-- 3D Animated Tech Bar -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
-</div>
-
-<br/>
-
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- GitHub Trophies -->
-## 🏅 &nbsp;GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bibeksah088&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="95%" />
-</div>
-
-<br/>
-
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- GitHub Stats -->
 ## 📊 &nbsp;GitHub Analytics
@@ -179,8 +132,8 @@ fun_fact: >
 
 <br/>
 
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- 3D Contribution Graph -->
 ## 🧊 &nbsp;3D Contribution Graph
@@ -195,23 +148,8 @@ fun_fact: >
 
 <br/>
 
-### 📅 &nbsp;Contribution Calendar
-
-<div align="center">
-  <img src="https://ghchart.rber.tv/a855f7/Bibeksah088" alt="Contribution Calendar" width="95%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bibeksah088&theme=tokyonight" alt="Profile Details" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bibeksah088&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-</div>
-
-<br/>
-
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Notable Highlights -->
 ## 🏆 &nbsp;Notable Highlights
@@ -226,14 +164,13 @@ fun_fact: >
 | 💰 | Built **Monetro** — Personal finance tracking Android app | 📱 |
 | 🩺 | Built **Diabetes Detection** — ML classification project | 🧬 |
 | 🔧 | Hands-on with REST APIs, auth, databases & deployment | 🛠️ |
-| 🚀 | Experience building full-stack & GenAI applications | 💡 |
 
 </div>
 
 <br/>
 
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Featured Projects -->
 ## 🚀 &nbsp;Featured Projects
@@ -242,38 +179,52 @@ fun_fact: >
 
 | &nbsp; | Project | Description | Tech Stack |
 |:---:|:--------|:------------|:-----------|
-| 🎤 | [**Interviq**](https://github.com/Bibeksah088) | AI-powered technical & HR interview prep platform | `React` `Node.js` `Gemini API` `MongoDB` |
-| ✈️ | [**FlightOps**](https://github.com/Bibeksah088) | Flight operations management & analytics system | `React` `Express` `REST APIs` `PostgreSQL` |
-| 💰 | [**Monetro**](https://github.com/Bibeksah088) | Personal finance tracking Android application | `Android` `SQLite` `Java` |
-| 🩺 | [**Diabetes Detection**](https://github.com/Bibeksah088) | Machine learning classification project | `Python` `Scikit-learn` `Pandas` |
+| 🎤 | [**Interviq**](https://github.com/Bibeksah088/Interviq) | AI-powered technical & HR interview prep platform | `React` `Node.js` `Gemini API` `MongoDB` |
+| ✈️ | [**FlightOps**](https://github.com/Bibeksah088/FlightOps) | Flight operations management & analytics system | `React` `Express` `REST APIs` `PostgreSQL` |
+| 💰 | [**Monetro**](https://github.com/Bibeksah088/Monetro) | Personal finance tracking Android application | `Android` `SQLite` `Java` |
+| 🩺 | [**Diabetes Detection**](https://github.com/Bibeksah088/Diabetes-Detection) | Machine learning classification project | `Python` `Scikit-learn` `Pandas` |
 
 </div>
 
 <br/>
 
-<!-- 3D Animated Bar -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" />
-</div>
-
-<br/>
-
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Competitive Programming -->
 ## 🧩 &nbsp;Competitive Programming
 
 <div align="center">
-  <img src="https://img.shields.io/badge/⚔️_Focus-DSA_&_Algorithms-a855f7?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/❤️_Love-Problem_Solving-00d4ff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🏆_Goal-Master_Every_Pattern-f5a623?style=for-the-badge&labelColor=0d1117" />
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 </div>
 
 <br/>
 
-<!-- Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<div align="center">
+
+| Platform | Stats |
+|:---------|:------|
+| 💡 **Total Problems Solved** | **600+** across platforms |
+| 🟡 **LeetCode** | **XXX+** problems · Max Rating: **XXXX** |
+| 🟤 **CodeChef** | **X★** · Max Rating: **XXXX** |
+| 🔵 **Codeforces** | Max Rating: **XXXX** (Specialist/Expert) |
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Connect -->
 ## 🤝 &nbsp;Let's Connect
@@ -294,20 +245,6 @@ fun_fact: >
 
 <br/>
 
-<!-- Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Build%2C%20learn%2C%20solve%2C%20and%20keep%20improving.&author=Bibek%20Sah" alt="Quote" />
-</div>
-
-<br/>
-
-<!-- Random Dev Quote -->
-<div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=churchill&font=default" alt="Random Dev Quote" width="500" />
-</div>
-
-<br/>
-
 <!-- Snake Animation -->
 <div align="center">
   <picture>
@@ -317,11 +254,5 @@ fun_fact: >
   </picture>
 </div>
 
-<!-- 3D Footer -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,10:1a0533,30:6c3ce9,60:a855f7,100:00d4ff&height=150&section=footer" width="100%" />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/%E2%9C%A8_If_you_like_my_work,_star_my_repos!_%E2%9C%A8-a855f7?style=for-the-badge&labelColor=0d1117" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Crafted_with-💜_&_☕-0d1117?style=flat-square" />
-</div>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:6c3ce9,60:a855f7,100:00d4ff&height=120&section=footer" width="100%" />
