@@ -130,10 +130,10 @@ open_to_collaborate_on:
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibeksah088&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </div>
 
-<br/>
+<br/> -->
 
 <!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">   -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">   
 
 <!-- Contribution Graph -->
 ## 📅 &nbsp;Contribution Graph
